@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is my proffesional account I use with Telia. My personal account is @BredeFK
+This is my proffesional account I use with Telia. My personal account is [@BredeFK](https://github.com/BredeFK)
 
 <!--
 **kaffelia/kaffelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
